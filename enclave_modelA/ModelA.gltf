@@ -1342,7 +1342,8 @@
 			"doubleSided":true,
 			"name":"MI_metal_brushed_aar",
 			"normalTexture":{
-				"index":22
+				"index":22,
+				"scale":-1
 			},
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
