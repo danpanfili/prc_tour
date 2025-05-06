@@ -1351,7 +1351,7 @@
 					0.3506707549095154,
 					1
 				],
-				"metallicFactor":0.8999999761581421,
+				"metallicFactor":0.5,
 				"metallicRoughnessTexture":{
 					"index":23
 				}
