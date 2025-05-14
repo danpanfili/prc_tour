@@ -1502,9 +1502,6 @@
 		{
 			"doubleSided":true,
 			"name":"MI_metal_brushed_aar",
-			"normalTexture":{
-				"index":15
-			},
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.36151623725891113,
@@ -1514,7 +1511,7 @@
 				],
 				"metallicFactor":0.8999999761581421,
 				"metallicRoughnessTexture":{
-					"index":16
+					"index":15
 				}
 			}
 		},
@@ -1536,14 +1533,14 @@
 			"doubleSided":true,
 			"name":"Granite_Counter_Top_Model_B",
 			"normalTexture":{
-				"index":17
+				"index":16
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":18
+					"index":17
 				},
 				"metallicRoughnessTexture":{
-					"index":19
+					"index":18
 				}
 			}
 		},
@@ -1552,10 +1549,10 @@
 			"name":"Sink_Bottom_Model_B",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":20
+					"index":19
 				},
 				"metallicRoughnessTexture":{
-					"index":21
+					"index":20
 				}
 			}
 		},
@@ -1563,14 +1560,14 @@
 			"doubleSided":true,
 			"name":"Vent_Metal_Model_B",
 			"normalTexture":{
-				"index":22
+				"index":21
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":23
+					"index":22
 				},
 				"metallicRoughnessTexture":{
-					"index":24
+					"index":23
 				}
 			}
 		},
@@ -1593,7 +1590,7 @@
 			"name":"MI_Z_microwave_e_aar",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":25
+					"index":24
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5527864098548889
@@ -1660,11 +1657,11 @@
 			"doubleSided":true,
 			"name":"MI_z_microwave_a_text_aar",
 			"normalTexture":{
-				"index":26
+				"index":25
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":27
+					"index":26
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5527864098548889
@@ -1745,14 +1742,14 @@
 			"doubleSided":true,
 			"name":"Concrete_Floor",
 			"normalTexture":{
-				"index":28
+				"index":27
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":29
+					"index":28
 				},
 				"metallicRoughnessTexture":{
-					"index":30
+					"index":29
 				}
 			}
 		},
@@ -1760,15 +1757,15 @@
 			"doubleSided":true,
 			"name":"Wood",
 			"normalTexture":{
-				"index":31
+				"index":30
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":32
+					"index":31
 				},
 				"metallicFactor":0,
 				"metallicRoughnessTexture":{
-					"index":33
+					"index":32
 				}
 			}
 		},
@@ -1790,14 +1787,14 @@
 			"doubleSided":true,
 			"name":"Wall_Paint_White",
 			"normalTexture":{
-				"index":34
+				"index":33
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":35
+					"index":34
 				},
 				"metallicRoughnessTexture":{
-					"index":36
+					"index":35
 				}
 			}
 		},
@@ -1806,7 +1803,7 @@
 			"doubleSided":true,
 			"name":"PaintedWoodDoor",
 			"normalTexture":{
-				"index":37
+				"index":36
 			},
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
@@ -1816,10 +1813,10 @@
 					0.3499999940395355
 				],
 				"baseColorTexture":{
-					"index":38
+					"index":37
 				},
 				"metallicRoughnessTexture":{
-					"index":39
+					"index":38
 				}
 			}
 		},
@@ -2026,14 +2023,14 @@
 			"doubleSided":true,
 			"name":"Wooden_Floor",
 			"normalTexture":{
-				"index":40
+				"index":39
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":41
+					"index":40
 				},
 				"metallicRoughnessTexture":{
-					"index":42
+					"index":41
 				}
 			}
 		},
@@ -2041,14 +2038,14 @@
 			"doubleSided":true,
 			"name":"Walnut_Parquet",
 			"normalTexture":{
-				"index":43
+				"index":42
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":44
+					"index":43
 				},
 				"metallicRoughnessTexture":{
-					"index":45
+					"index":44
 				}
 			}
 		},
@@ -2056,14 +2053,14 @@
 			"doubleSided":true,
 			"name":"Marble_Tiles",
 			"normalTexture":{
-				"index":46
+				"index":45
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":47
+					"index":46
 				},
 				"metallicRoughnessTexture":{
-					"index":48
+					"index":47
 				}
 			}
 		},
@@ -2071,14 +2068,14 @@
 			"doubleSided":true,
 			"name":"Wall_Paint_Gray",
 			"normalTexture":{
-				"index":49
+				"index":48
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":50
+					"index":49
 				},
 				"metallicRoughnessTexture":{
-					"index":51
+					"index":50
 				}
 			}
 		},
@@ -2086,14 +2083,14 @@
 			"doubleSided":true,
 			"name":"PaintedWoodDoorFrame",
 			"normalTexture":{
-				"index":52
+				"index":51
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":53
+					"index":52
 				},
 				"metallicRoughnessTexture":{
-					"index":54
+					"index":53
 				}
 			}
 		},
@@ -2101,15 +2098,15 @@
 			"doubleSided":true,
 			"name":"PaintedTrim",
 			"normalTexture":{
-				"index":55,
+				"index":54,
 				"scale":0.25
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":56
+					"index":55
 				},
 				"metallicRoughnessTexture":{
-					"index":57
+					"index":56
 				},
 				"roughnessFactor":0.6999999284744263
 			}
@@ -2132,15 +2129,15 @@
 			"doubleSided":true,
 			"name":"SubwayTile",
 			"normalTexture":{
-				"index":58
+				"index":57
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":59
+					"index":58
 				},
 				"metallicFactor":0,
 				"metallicRoughnessTexture":{
-					"index":60
+					"index":59
 				}
 			}
 		},
@@ -2148,14 +2145,14 @@
 			"doubleSided":true,
 			"name":"Carpet_Plush",
 			"normalTexture":{
-				"index":61
+				"index":60
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":62
+					"index":61
 				},
 				"metallicRoughnessTexture":{
-					"index":63
+					"index":62
 				}
 			}
 		},
@@ -5390,15 +5387,15 @@
 		},
 		{
 			"sampler":0,
+			"source":33
+		},
+		{
+			"sampler":0,
 			"source":48
 		},
 		{
 			"sampler":0,
-			"source":34
-		},
-		{
-			"sampler":0,
-			"source":49
+			"source":35
 		},
 		{
 			"sampler":0,
@@ -5414,7 +5411,7 @@
 		},
 		{
 			"sampler":0,
-			"source":39
+			"source":36
 		},
 		{
 			"sampler":0,
@@ -5426,7 +5423,7 @@
 		},
 		{
 			"sampler":0,
-			"source":39
+			"source":49
 		},
 		{
 			"sampler":0,
@@ -5447,10 +5444,6 @@
 		{
 			"sampler":0,
 			"source":54
-		},
-		{
-			"sampler":0,
-			"source":55
 		}
 	],
 	"images":[
@@ -5528,11 +5521,6 @@
 			"mimeType":"image/png",
 			"name":"Porcelain001_1K-PNG_Roughness",
 			"uri":"textures/Porcelain001_1K-PNG_Roughness.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"T_brushed_metal_grain_fine_normalmap_aar",
-			"uri":"textures/T_brushed_metal_grain_fine_normalmap_aar.png"
 		},
 		{
 			"mimeType":"image/png",
